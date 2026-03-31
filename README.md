@@ -15,8 +15,7 @@ Please be advised that this software and its associated documentation are the pr
 
 For official inquiries, partnerships, or to learn about our latest developments, please contact us via:
 
-* **Website:** [Your Website URL - e.g., logary.app]
-* **Contact:** [Your Business Email - e.g., info@logary.app]
+* **Website:** [Logary](https://logary-web.vercel.app/)
 
 ---
 © 2026 Logary. All rights reserved. Proprietary Information.
